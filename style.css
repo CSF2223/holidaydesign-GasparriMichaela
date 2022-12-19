@@ -1,6 +1,6 @@
 /*
 Color Palette:
-background color:  #91BD3A
+background color:  #DC0000
 font color:      #100F0F 
 secondary color:   #FA9494
 tertiary color:    #EB1D36
@@ -10,7 +10,7 @@ tertiary color:    #EB1D36
    selector {property value;}
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&display=swap');
 
 html {
     font-size: 62.5%;
@@ -22,9 +22,9 @@ header {
     margin: 0 4rem;
     letter-spacing: 0.8rem;
     text-align: center;
-    border-bottom: 4px solid #000;
-    border-right: 4px solid #000;
-    border-left: 4px solid #000;
+    border-bottom: 4px solid #fff;
+    border-right: 4px solid #fff;
+    border-left: 4px solid #fff;
     padding: 0.5rem;
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
     text-transform: uppercase;
@@ -32,8 +32,8 @@ header {
 }
 
 body {
-    background-color: #91BD3A;
-    color: #000;
+    background-color: #DC0000;
+    color: #fff;
     font-family: 'Montserrat', sans-serif;
     margin: 0;
 }
@@ -71,12 +71,12 @@ p {
 }
 
 .cardText {
-    color: #000;
+    color: #fff;
     text-align: center;
-     border-bottom: 3px solid #000;
-    border-right: 3px solid #000;
-    border-left: 3px solid #000;
-    border-top: 3px solid #000;
+     border-bottom: 3px solid #fff;
+    border-right: 3px solid #fff;
+    border-left: 3px solid #fff;
+    border-top: 3px solid #fff;
     padding: 2rem;
     border-radius: 30px;
     margin-top: 2rem;
